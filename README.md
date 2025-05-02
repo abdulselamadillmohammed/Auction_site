@@ -1,6 +1,3 @@
-### `README.md`:
-
-```markdown
 # Auction Site
 
 This is a simple auction platform built using Django and Django Rest Framework (DRF) with JWT authentication. It allows users to create auctions, place bids, and view their bids and selling items.
