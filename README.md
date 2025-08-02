@@ -67,7 +67,6 @@ This is a simple auction platform built using Django and Django Rest Framework (
 - **GET /api/user-selling-items/**: Get the list of items being sold by the authenticated user.
 
 ## Testing
-
 You can test the endpoints using Postman, cURL, or any API client. 
 
 Make sure to include the `Authorization: Bearer <your_token>` header for authenticated routes.
